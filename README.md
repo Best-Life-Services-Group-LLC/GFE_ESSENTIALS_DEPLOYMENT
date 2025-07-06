@@ -1,0 +1,2 @@
+# GFE_ESSENTIALS_DEPLOYMENT
+Essentials Zip
